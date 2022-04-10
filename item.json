@@ -1,0 +1,84 @@
+{
+    "result": [
+      {
+        "id": 1274,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images(1)",
+        "data1": "16-inch Retina display.",
+        "data2": "Up to 8 core processors.",
+        "data3": "Up to 8TB SSD storage",
+        "data4": "6 speaker sound system",
+        "data5": "Price: 2,780,000 won."
+      },
+      {
+        "id": 6155,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images",
+        "data1": "Octank Air Conditioner.",
+        "data2": "Easy Care Step 3: Automatic Cleaning.",
+        "data3": "Price: 2,930,000 won",
+        "data4": "",
+        "data5": ""
+      },
+      {
+        "id": 3363,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUOxiDA6hCEFYWloPub9zWsdsIqNyRD8TIw&usqp=CAU", 
+        "data1": "Up to 8 core processors.",
+        "data2": "Up to 4TB SSD storage",
+        "data3": "5 speaker sound system",
+        "data4": "Price: 2,149,000 won",
+        "data5": ""
+      },
+      {
+        "id": 1263,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images(2)", 
+        "data1": "32K visual display.",
+        "data2": "21.9KG.",
+        "data3": "Free bluetooth speaker",
+        "data4": "Price: 5,240,000 won",
+        "data5": ""
+      },
+      {
+        "id": 1293,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images(3)", 
+        "data1": "5.4-inch.",
+        "data2": "128GB storage.",
+        "data3": "0.9KG",
+        "data4": "Free bluetooth earphone",
+        "data5": "Price: 1,170,000 won."
+      },
+      {
+        "id": 1285,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images(4)", 
+        "data1": "Newly designed in Spain.",
+        "data2": "3motors for consumption.",
+        "data3": "6.4KG",
+        "data4": "Multi-attach available",
+        "data5": "Price: 1,280,000 won."
+      },
+      {
+        "id": 2313,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images(5)", 
+        "data1": "7.3-inch.",
+        "data2": "256GB storage.",
+        "data3": "1.3KG",
+        "data4": "Free bluetooth earphone",
+        "data5": "Price: 1,350,000 won."
+      },
+      {
+        "id": 1466,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/images(6)", 
+        "data1": "18-inch Retina display.",
+        "data2": "32 core processors",
+        "data3": "64GB RAM",
+        "data4": "Graviton GPU",
+        "data5": "Price: 4,730,000 won."
+      },
+      {
+        "id": 4023,
+        "image": "https://webserver-taehooon.s3.eu-west-2.amazonaws.com/OctankElectronics_files/desktop-01.jpg",
+        "data1": "Color: Gray",
+        "data2": "Power:220V / 60Hz",
+        "data3": "Weight:96 kg",
+        "data4": "686 x 984 x 796 mm",
+        "data5": "Price: 3,290,000 won."
+      }
+      ]}
