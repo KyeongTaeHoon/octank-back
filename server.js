@@ -1,8 +1,9 @@
 const db_config = require(__dirname + '/database.js');
 const express = require('express');
 const app = express();
+const cors = require('cors');
 var AWS = require ('aws-sdk');
-
+app.use(cors());
 AWS.config.update({
 
   region: 'us-east-1',
