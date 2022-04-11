@@ -3,8 +3,13 @@ const express = require('express');
 const app = express();
 var AWS = require ('aws-sdk');
 
-AWS.config = new AWS.Config();
-AWS.config.update({region:'us-east-1'});
+AWS.config.update({
+
+  region: 'us-east-1',
+  accessKeyId: process.env.ACCESS_KEY_ID,
+  secretAccessKey: process.env.SECRET_ACCESS_KEY,
+
+})
 
 const bodyParser = require('body-parser');
 const personalizeruntime = new AWS.PersonalizeRuntime();
@@ -74,7 +79,8 @@ app.get('/', function(요청, 응답){
   // console.log(result);
   // console.log("haha");
   console.log('result',result);
-      응답.render('index', {'num' : result.length, 'body' : result} );
+  응답.send(result);
+      // 응답.render('index', {'num' : result.length, 'body' : result} );
   
                   // successful response
       }    
