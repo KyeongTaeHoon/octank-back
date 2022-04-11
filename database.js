@@ -2,8 +2,8 @@ var mysql = require('mysql');
 var db_info = {
     host: 'taehoon-aurora-poc.cluster-cct6axswzdpb.us-east-1.rds.amazonaws.com',
     port: '3306',
-    user: process.env.db_user,
-    password: process.env.db_password,
+    user: admin,
+    password: Kk11596714*,
     database: 'octank_poc'
 }
 
