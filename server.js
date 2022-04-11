@@ -17,7 +17,7 @@ const personalizeruntime = new AWS.PersonalizeRuntime();
 const personalizeevents = new AWS.PersonalizeEvents();
 const conn = db_config.init();
 
-//ryz
+//ryzd
 const ejs = require("ejs");
 const fs = require('fs');
 app.set("view engine", "ejs");
